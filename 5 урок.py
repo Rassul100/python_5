@@ -8,7 +8,7 @@ for i in range(10, a + 1):
 
 print("Сумма чисел:", d)
 
-#Второе занятие
+#Второе задание
 a = int(input("Введите число: "))
 
 for d in range(0, a+1):
@@ -23,5 +23,6 @@ summa = 0
 for i in range(0, n+1):
     if i % 3 == 0:
         summa += i
+
 
 print("Сумма чисел:", summa)
